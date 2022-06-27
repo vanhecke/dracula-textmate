@@ -524,11 +524,11 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>83091B89-765E-4F0D-9275-0EC6CB084126</string>
+	<string>D34F88D4-7788-43F4-ACBB-983976D9BB54</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.dark.dracula</string>
+	<string>theme.dark.hyperdracula</string>
 	<key>author</key>
 	<string>Zeno Rocha</string>
 </dict>
